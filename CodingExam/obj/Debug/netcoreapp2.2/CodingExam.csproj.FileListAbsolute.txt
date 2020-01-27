@@ -1,0 +1,11 @@
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\bin\Debug\netcoreapp2.2\CodingExam.deps.json
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\bin\Debug\netcoreapp2.2\CodingExam.runtimeconfig.json
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\bin\Debug\netcoreapp2.2\CodingExam.runtimeconfig.dev.json
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\bin\Debug\netcoreapp2.2\CodingExam.dll
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.csproj.CoreCompileInputs.cache
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.AssemblyInfoInputs.cache
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.AssemblyInfo.cs
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\bin\Debug\netcoreapp2.2\CodingExam.pdb
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.dll
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.pdb
+C:\Users\sathi\Desktop\Coding Exam\CodingExam\CodingExam\obj\Debug\netcoreapp2.2\CodingExam.csprojAssemblyReference.cache
